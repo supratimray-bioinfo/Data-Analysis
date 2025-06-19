@@ -6,19 +6,7 @@ Dataset: [AERO-BirdsEye-Data.csv](./Clinical_Data_Analysis_With_R/AERO-BirdsEye-
 
 Source: [Kaggle](https://www.kaggle.com/datasets/thedevastator/a-quick-overview-of-clinical-trials/data) – Aero Data Lab
 
-Contains clinical trial metadata, including:
-
-- Condition – disease or condition being studied
-
-- Phase – Phase 1, 2, or 3
-
-- Enrollment – number of participants
-
-- Start_Year / Start_Month – trial start time
-
-- Status – trial progress (e.g., Completed, Withdrawn)
-
-Key Findings
+### Key Findings
 1. Top Sponsors by Trial Volume
 The most active sponsor is GSK, with the highest number of trials.
 A doughnut chart shows proportional trial contributions by top sponsors.
