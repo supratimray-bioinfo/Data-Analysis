@@ -1,0 +1,10 @@
+#Conclusion:
+##Here are some observations and inferences that can be made in light of the facts and findings provided:
+1. The proportion of left-handed people declines with age: The proportion of left-handed persons falls as people get older. This shows that elderly people may have a lower prevalence of left-handedness.
+2. The prevalence of left-handedness has increased with age: The average number of left-handed persons born between 1920 and 1970 is on the rise, according to the statistics. This suggests that left-handedness may have increased in popularity or prevalence throughout this time.
+3. Ages 60 to 80: Highest Death Occurrence, According to the research, the majority of persons (both left- and right-handers) pass away between the ages of 60 and 80. This widespread pattern has been seen in several groups.
+4. Left-handed persons seem to have a larger likelihood of Dying before 70: If we look at ages under 70, left-handed persons appear to have a larger likelihood of dying than right-handed ones. This shows that left-handed people may have somewhat shorter lives on average.
+5. Right-handed persons seem to have a Higher Probability of Dying between Ages 60 and 100: Right-handed persons appear to have a higher mortality rate than left-handed people between the ages of 60 and 100.
+6. Average Death Age: The average death age for left-handed people is around 67.25 years, but for right-handed people it is roughly 72.79 years. This demonstrates that people who are right-handed often live longer than those who are left-handed.
+7. Difference in Average Death Ages: According to the research, left-handed and right-handed people die on average 5.5 years apart from one another. This indicates that, on average, right-handed people live 5.5 years longer than left-handed people.
+8. Difference in Average Death Ages in 2018: In 2018, there was a 2.3-year difference in the average death ages for those who are right-handed and left-handed. This indicates that there may have been a shift in the two groups' differences in longevity over time.
