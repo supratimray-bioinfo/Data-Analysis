@@ -8,15 +8,15 @@ Source: [Kaggle](https://www.kaggle.com/datasets/thedevastator/a-quick-overview-
 
 Contains clinical trial metadata, including:
 
-1)Condition – disease or condition being studied
+- Condition – disease or condition being studied
 
-2)Phase – Phase 1, 2, or 3
+- Phase – Phase 1, 2, or 3
 
-3)Enrollment – number of participants
+- Enrollment – number of participants
 
-4)Start_Year / Start_Month – trial start time
+- Start_Year / Start_Month – trial start time
 
-5)Status – trial progress (e.g., Completed, Withdrawn)
+- Status – trial progress (e.g., Completed, Withdrawn)
 
 Key Findings
 1. Top Sponsors by Trial Volume
