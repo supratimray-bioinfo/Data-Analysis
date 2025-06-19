@@ -1,8 +1,8 @@
-Project Overview
-This project provides an exploratory data analysis (EDA) of clinical trials data sourced from Kaggle: A Quick Overview of Clinical Trials by Aero Data Lab. The analysis explores sponsorship trends, enrollment behaviour, trial phases, and most frequently studied diseases.
+# Project Overview
+This project provides an exploratory data analysis (EDA) of clinical trials data sourced from [Kaggle: A Quick Overview of Clinical Trials](https://www.kaggle.com/datasets/thedevastator/a-quick-overview-of-clinical-trials/data) by Aero Data Lab. The analysis explores sponsorship trends, enrollment behaviour, trial phases, and most frequently studied diseases.
 
-Dataset Summary
-Dataset: AERO-BirdsEye-Data.csv
+### Dataset Summary
+Dataset: [AERO-BirdsEye-Data.csv] (#
 
 Source: Kaggle – Aero Data Lab
 
